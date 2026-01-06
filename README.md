@@ -1,4 +1,4 @@
-# OceanAI_Assignment1
+# RAG
 Overview of the assignment: 
 
 A Retrieval-Augmented Generation system that analyzes both text and images from PDF documents, running entirely in Google Colab.
